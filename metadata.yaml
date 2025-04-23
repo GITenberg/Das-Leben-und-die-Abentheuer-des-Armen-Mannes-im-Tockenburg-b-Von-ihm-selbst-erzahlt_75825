@@ -1,0 +1,55 @@
+_repo: Das-Leben-und-die-Abentheuer-des-Armen-Mannes-im-Tockenburg-b-Von-ihm-selbst-erzahlt_75825
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bernhard, Lucian
+    alias: Kahn, Emil
+    birthdate: 1883
+    deathdate: 1972
+    gutenberg_agent_id: '58169'
+    url: http://www.gutenberg.org/2009/agents/58169
+    wikipedia: https://en.wikipedia.org/wiki/Lucian_Bernhard
+creator:
+  author:
+    agent_name: Bräker, Ulrich
+    aliases:
+    - Braeker, Ulrich
+    - Braker, Ulrich
+    birthdate: 1735
+    deathdate: 1798
+    gutenberg_agent_id: '58167'
+    url: http://www.gutenberg.org/2009/agents/58167
+    wikipedia: https://en.wikipedia.org/wiki/Ulrich_Br%C3%A4ker
+  editor:
+    agent_name: Wilbrandt, Adolf
+    alias: Wilbrandt, Adolf von
+    birthdate: 1837
+    deathdate: 1911
+    gutenberg_agent_id: '58168'
+    url: http://www.gutenberg.org/2009/agents/58168
+    wikipedia: https://en.wikipedia.org/wiki/Adolf_Wilbrandt
+description: ''
+gutenberg_issued: '2025-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75825'
+  lccn: '43031847'
+language: de
+pgterms:marc905: 20240114014140braeker
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bMeyer & Jessen, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military biography'
+- !lcsh 'Bräker, Ulrich, 1735-1798'
+- !lcsh 'Prussia (Germany). Armee -- Biography'
+- !lcc 'PT'
+- !lcc 'UA'
+- GITenberg
+title: 'Das Leben und die Abentheuer des Armen Mannes im Tockenburg : $b Von ihm selbst
+  erzählt'
+url: http://www.gutenberg.org/ebooks/75825
