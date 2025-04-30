@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '58169'
     url: http://www.gutenberg.org/2009/agents/58169
     wikipedia: https://en.wikipedia.org/wiki/Lucian_Bernhard
+covers:
+- cover_type: archival
+  image_path: 75825-h/images/cover.jpg
 creator:
   author:
     agent_name: Bräker, Ulrich
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58168
     wikipedia: https://en.wikipedia.org/wiki/Adolf_Wilbrandt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75825#Das-Leben-und-die-Abentheuer-des-Armen-Mannes-im-Tockenburg-b-Von-ihm-selbst-erzahlt
 gutenberg_issued: '2025-04-09'
 gutenberg_type: Text
 identifiers:
